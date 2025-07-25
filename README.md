@@ -1,7 +1,6 @@
 # Playlist_calculator
 
-A resurrection 'tis is , Took me 2 years to write a simple Java program. 
-
+A resurrection 'tis is 
 I wanted to know how long a YouTube playlist was but alas was I bad at math so I madeth this. 
 
 Features
